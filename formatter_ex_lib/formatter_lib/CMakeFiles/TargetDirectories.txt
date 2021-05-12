@@ -1,0 +1,3 @@
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/formatter_lib/CMakeFiles/edit_cache.dir
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/formatter_lib/CMakeFiles/formatter.dir

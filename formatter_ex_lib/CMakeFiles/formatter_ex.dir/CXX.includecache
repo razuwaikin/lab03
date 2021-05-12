@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/formatter_ex_lib/formatter_ex.cpp
+formatter_ex.h
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/formatter_ex_lib/formatter_ex.h
+formatter.h
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/formatter_ex_lib/formatter.h
+
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/formatter_ex_lib/formatter_ex.h
+string
+-
+iostream
+-
+
+formatter_lib/formatter.h
+string
+-
+
