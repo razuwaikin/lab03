@@ -1,0 +1,7 @@
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/CMakeFiles/install/strip.dir
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/CMakeFiles/install/local.dir
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/CMakeFiles/install.dir
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/CMakeFiles/list_install_components.dir
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/CMakeFiles/rebuild_cache.dir
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/CMakeFiles/edit_cache.dir
+/home/razuwaikin/razuwaikin/workspace/projects/lab03/CMakeFiles/print.dir
